@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "description": "listar antes",
+    "status": "in-progress",
+    "createdAt": "Wed Mar 26 2025 17:17:01 GMT-0300 (Horário Padrão de Brasília)",
+    "updatedAt": "Wed Mar 26 2025 19:40:33 GMT-0300 (Horário Padrão de Brasília)"
+  },
+  {
+    "id": 2,
+    "description": "caçar pokemon",
+    "status": "in-progress",
+    "createdAt": "Wed Mar 26 2025 19:21:46 GMT-0300 (Horário Padrão de Brasília)",
+    "updatedAt": "Wed Mar 26 2025 19:21:46 GMT-0300 (Horário Padrão de Brasília)"
+  },
+  {
+    "id": 3,
+    "description": "Chutar lixo",
+    "status": "done",
+    "createdAt": "Wed Mar 26 2025 19:22:01 GMT-0300 (Horário Padrão de Brasília)",
+    "updatedAt": "Wed Mar 26 2025 19:22:01 GMT-0300 (Horário Padrão de Brasília)"
+  },
+  {
+    "id": 4,
+    "description": "aasasda",
+    "status": "todo",
+    "createdAt": "Wed Mar 26 2025 19:37:47 GMT-0300 (Horário Padrão de Brasília)",
+    "updatedAt": "Wed Mar 26 2025 19:37:47 GMT-0300 (Horário Padrão de Brasília)"
+  },
+  {
+    "id": 5,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "Wed Mar 26 2025 19:38:57 GMT-0300 (Horário Padrão de Brasília)",
+    "updatedAt": "Wed Mar 26 2025 19:38:57 GMT-0300 (Horário Padrão de Brasília)"
+  },
+  {
+    "id": 6,
+    "description": "abacaxi",
+    "status": "todo",
+    "createdAt": "Wed Mar 26 2025 19:41:38 GMT-0300 (Horário Padrão de Brasília)",
+    "updatedAt": "Wed Mar 26 2025 19:41:38 GMT-0300 (Horário Padrão de Brasília)"
+  }
+]
